@@ -1,5 +1,5 @@
 body {
-    background-image:url(tela.jpg);
+    background-image:url(Captura\ de\ tela\ 2025-12-03\ 194041.png);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -14,3 +14,7 @@ header {
     padding: 10px 0;
 }
 
+a {
+  color: rgb(0, 0, 0);
+text-decoration: none;
+}
